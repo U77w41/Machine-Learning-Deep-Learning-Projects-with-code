@@ -104,7 +104,7 @@
 | 98    | Deep learning in Production                                  | https://bit.ly/3qPzqMf              |
 | 99    | GANs Collection                                              | https://bit.ly/3hgcvGu              |
 | 100   | Time Series Projects Code                                    | https://bit.ly/3weCjat              |
-|101    | Kidney Disease Classification                                | [youtu.be/86BKEv0X2xU (https://youtu.be/86BKEv0X2xU?si=sTCf5QPdzsYAla5l) |
+|101    | Kidney Disease Classification                                | [https://youtu.be/86BKEv0X2xU](https://youtu.be/86BKEv0X2xU?si=sTCf5QPdzsYAla5l) |
 
 
 
